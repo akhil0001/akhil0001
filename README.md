@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, WebXR**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-zK56ryc_BXbnO1i181FsphUfNRHyAMCLm9CtMA1YeA/edit?usp=sharing](https://docs.google.com/document/d/1-zK56ryc_BXbnO1i181FsphUfNRHyAMCLm9CtMA1YeA/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1-zK56ryc_BXbnO1i181FsphUfNRHyAMCLm9CtMA1YeA/edit?usp=sharing)
 
 - ⚡ Fun fact **I am huge fan of Marvel and DC comics. I like Origami art and am currently learning it**
 
