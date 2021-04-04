@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 👋, I'm Akhil Sai Ram Chennareddy</h1>
-<h3 align="center">Hi, I am a javascript developer. I am passionate about WebXR, WebGL and Animations. I also focus on Libraries like `React`, `three.js`, `D3.js`</h3>
+<h3 align="center">Hi, I am a javascript developer. I am passionate about WebXR, WebGL and Animations. I also focus on Libraries like <code>React, three.js, D3.js </code></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil0001" alt="akhil0001" /></a> </p>
 
