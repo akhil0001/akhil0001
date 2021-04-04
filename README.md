@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1-zK56ryc_BXbnO1i181FsphUfNRHyAMCLm9CtMA1YeA/edit?usp=sharing)
 
+- - [X] Avaialble for Hiring
+
 - ⚡ Fun fact **I am huge fan of Marvel and DC comics. I like Origami art and am currently learning it**
 
 <h3 align="left">Connect with me:</h3>
