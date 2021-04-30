@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 👋, I'm Akhil Sai Ram Chennareddy</h1>
-<h3 align="center">Hi, I am a javascript developer. I am passionate about WebXR, WebGL and Animations. I also focus on Libraries like <code>React, three.js, D3.js </code></h3>
+<h3 align="center">Hi, I am a javascript developer. I am passionate about WebXR, WebGL and Animations. I also focus on Libraries like <code>React,Typescript, three.js, D3.js </code></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil0001" alt="akhil0001" /></a> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [threejs-shorts](https://github.com/akhil0001/threejs-shorts)
 
-- 🌱 I’m currently learning **three.js , GLSL, WebXR**
+- 🌱 I’m currently learning **React Advanced Concepts, three.js **
 
-- 💬 Ask me about **React, WebXR**
+- 💬 Ask me about **React, WebXR(AR/VR) **
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1-zK56ryc_BXbnO1i181FsphUfNRHyAMCLm9CtMA1YeA/edit?usp=sharing)
 
